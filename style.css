@@ -1,0 +1,44 @@
+.exercise {
+  max-width: 720px;
+  margin: 80px auto;
+  padding: 0 20px;
+  line-height: 1.7;
+}
+
+.exercise h1 {
+  font-size: 2rem;
+  margin-bottom: 24px;
+}
+
+.exercise h2 {
+  margin-top: 32px;
+  font-size: 1.1rem;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.exercise blockquote {
+  margin: 24px 0;
+  padding-left: 16px;
+  border-left: 3px solid #444;
+  font-style: italic;
+}
+
+.exercise textarea {
+  width: 100%;
+  margin-top: 16px;
+  padding: 14px;
+  font-size: 1rem;
+  line-height: 1.5;
+  resize: vertical;
+}
+
+.exercise .closing {
+  margin-top: 32px;
+  font-style: italic;
+}
+
+.exercise .signature {
+  margin-top: 16px;
+  font-weight: bold;
+}
